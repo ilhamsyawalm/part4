@@ -178,20 +178,20 @@ body {
   font-weight: bolder;
   display: inline-block;
   position: absolute;
-  left: 200px;
+  left: 120px;
   top: 10px;
 }
 
 .search {
   margin-top: 15px;
-  margin-left: 610px;
+  margin-left: 530px;
   margin-right: 50px;
   font-size: 21px;
   position: absolute;
 }
 
 .tombol {
-  margin-left: 1085px;
+  margin-left: 1020px;
   margin-top: 16px;
 }
 
